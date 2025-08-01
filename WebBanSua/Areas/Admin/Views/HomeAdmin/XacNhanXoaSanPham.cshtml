@@ -1,0 +1,25 @@
+﻿@model WebBanSua.Data.Product
+@{
+    ViewData["Title"] = "XacNhanXoaSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@{
+    ViewBag.Title = "Xác nhận xóa sản phẩm";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h3>Bạn có chắc chắn muốn xóa sản phẩm này?</h3>
+
+<div>
+    <p><strong>Mã sản phẩm:</strong> @Model.ProductId</p>
+    <p><strong>Tên sản phẩm:</strong> @Model.Name</p>
+    <p><strong>Giá:</strong> @Model.Price</p>
+    <p><strong>Ảnh:</strong> <img src="~/hinh/Products/@Model.ImageUrl" width="100" /></p>
+</div>
+
+<form asp-action="XoaSanPham" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="maSanPham" value="@Model.ProductId" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="DanhMucSanPham" class="btn btn-secondary">Hủy</a>
+</form>

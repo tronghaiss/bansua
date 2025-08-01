@@ -1,0 +1,7 @@
+﻿@model IEnumerable<WebBanSua.ViewModels.ProductVM>
+@{
+    ViewData["Title"] = "Search";
+    Layout = "_TemplateProducts";
+}
+<h1>Tìm kiếm</h1>
+@await Html.PartialAsync("ProductItem", Model)

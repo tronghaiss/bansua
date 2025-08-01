@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\WebBanSua\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\views\\products\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\views\\products\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\views\\customer\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\views\\customer\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|c:\\users\\admin\\downloads\\webbansua\\webbansua\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7032036A-BAE7-45A9-9485-165C87CCDF28}|WebBanSua\\WebBanSua.csproj|solutionrelative:webbansua\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Products\\Search.cshtml",
+              "RelativeDocumentMoniker": "WebBanSua\\Views\\Products\\Search.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Products\\Search.cshtml",
+              "RelativeToolTip": "WebBanSua\\Views\\Products\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T06:14:51.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanSua\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebBanSua\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T06:13:30.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Products\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "WebBanSua\\Views\\Products\\ProductItem.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Products\\ProductItem.cshtml",
+              "RelativeToolTip": "WebBanSua\\Views\\Products\\ProductItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T06:07:51.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "WebBanSua\\Data\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Data\\Product.cs",
+              "RelativeToolTip": "WebBanSua\\Data\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:06:36.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanSua\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebBanSua\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T06:00:19.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanSua\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebBanSua\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T05:59:47.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Products\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WebBanSua\\Views\\Products\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Products\\Detail.cshtml",
+              "RelativeToolTip": "WebBanSua\\Views\\Products\\Detail.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T05:57:23.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebBanSua\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebBanSua\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:56:59.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\appsettings.json",
+              "RelativeDocumentMoniker": "WebBanSua\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\appsettings.json",
+              "RelativeToolTip": "WebBanSua\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T03:53:30.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Customer\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebBanSua\\Views\\Customer\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Customer\\Profile.cshtml",
+              "RelativeToolTip": "WebBanSua\\Views\\Customer\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T03:04:47.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebBanSua\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebBanSua\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:01:43.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Customer\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebBanSua\\Views\\Customer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Customer\\Login.cshtml",
+              "RelativeToolTip": "WebBanSua\\Views\\Customer\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T02:26:24.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebBanSua\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebBanSua\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:02:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Program.cs",
+              "RelativeDocumentMoniker": "WebBanSua\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Program.cs",
+              "RelativeToolTip": "WebBanSua\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:15:02.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "WebBanSua\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "WebBanSua\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:26:31.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Customer\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebBanSua\\Views\\Customer\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Customer\\Register.cshtml",
+              "RelativeToolTip": "WebBanSua\\Views\\Customer\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T14:59:58.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "WebBanSua\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "WebBanSua\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T02:36:59.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Data\\User.cs",
+              "RelativeDocumentMoniker": "WebBanSua\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanSua\\WebBanSua\\Data\\User.cs",
+              "RelativeToolTip": "WebBanSua\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:27:05.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

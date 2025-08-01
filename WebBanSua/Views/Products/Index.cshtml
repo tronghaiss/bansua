@@ -1,0 +1,33 @@
+﻿@using X.PagedList.Mvc.Core
+@using X.PagedList
+@model IPagedList<WebBanSua.ViewModels.ProductVM>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_TemplateProducts";
+}
+<!-- Single Page Header start -->
+@section BreadCum {
+    <div class="container-fluid page-header py-5">
+        <h1 class="text-center text-white display-6">Sản phẩm</h1>
+        <ol class="breadcrumb justify-content-center mb-0">
+            <li class="breadcrumb-item"><a asp-action ="Index" asp-controller="Home">Trang chủ</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Products">Sản phẩm</a></li>
+        </ol>
+    </div>
+}
+<!-- Single Page Header End -->
+
+@await Html.PartialAsync("ProductItem", Model)
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new {
+page = page,
+    category = Context.Request.Query["category"]
+}),
+new PagedListRenderOptions
+{
+    UlElementClasses = new List<string> { "pagination", "pagination-flex" },
+    LiElementClasses = new List<string> { "page-item" },
+    PageClasses = new List<string> { "page-link" },
+    ActiveLiElementClass = "active"
+})
+

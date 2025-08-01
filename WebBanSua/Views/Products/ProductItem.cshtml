@@ -1,0 +1,36 @@
+﻿@model IEnumerable<WebBanSua.ViewModels.ProductVM>
+
+<h6>Có <b>@Model.Count()</b> sản phẩm.</h6>
+@foreach (var item in Model)
+{
+    <div class="col-md-6 col-lg-6 col-xl-4">
+        <div class="rounded position-relative fruite-item">
+            <div class="fruite-img">
+                <a asp-action ="Detail" asp-controller="Products" asp-route-id="@item.ProductId">
+                    <img src="@Url.Content(item.ImageUrl)" class="img-fluid w-100" />
+                </a>
+            </div>
+            <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">@item.CategoryName</div>
+            <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                <a asp-action ="Detail" asp-controller="Products" asp-route-id="@item.ProductId">
+                    <h4>
+                        @(string.IsNullOrEmpty(item.ProductName)
+                                            ? "Sản phẩm chưa đặt tên"
+                                            : (item.ProductName.Length > 15
+                                            ? item.ProductName.Substring(0, 15) + "..."
+                                            : item.ProductName))
+                                                            </h4>
+                                                        </a>
+                <p>
+                    @(string.IsNullOrEmpty(item.Description)
+                                    ? "Chưa có mô tả."
+                                    : (item.Description.Length > 20 ? item.Description.Substring(0, 20) + "..." : item.Description))
+            </p>
+                <div class="d-flex justify-content-between flex-lg-wrap">
+                <p class="text-dark fs-5 fw-bold mb-0">@((item.Price ?? 0).ToString("N0")) </p>
+                    <a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@item.ProductId" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i>Thêm vào giỏ</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}
